@@ -150,15 +150,6 @@ reproduced by running scripts 01–08 in sequence with the required input files 
 
 ---
 
-## Citation
-
-If you use this code or data, please cite:
-
-> Shankarnarayan, V. K. (2025). Open-Data Landslide Susceptibility Mapping in Kodagu,
-> Karnataka: A Spatially Cross-Validated Assessment with Preliminary River-Channel
-> Disturbance Analysis. *Asian Journal of Geographical Research.*
-> https://doi.org/[INSERT DOI]
-
 ---
 
 ## License
