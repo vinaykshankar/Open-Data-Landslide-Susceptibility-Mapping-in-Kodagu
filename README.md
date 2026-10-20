@@ -9,7 +9,7 @@ A Spatially Cross-Validated Assessment with Preliminary River-Channel Disturbanc
 | **Institution** | RV Institute of Management, Bengaluru, Karnataka, India |
 | **ORCID** | [0000-0002-5759-0262](https://orcid.org/0000-0002-5759-0262) |
 | **Journal** | Asian Journal of Geographical Research (AGJSR) |
-| **DOI** | *[INSERT ZENODO DOI after upload]* |
+| **DOI** | *https://doi.org/10.5281/zenodo.23493494* |
 
 ---
 
